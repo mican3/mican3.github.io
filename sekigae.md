@@ -8,4 +8,4 @@ Windows と Linux に対応
 ## インストール方法
 ### Windows
 ### Linux
-Snapパッケージでの配布を予定
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/sekigae)
