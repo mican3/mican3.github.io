@@ -16,7 +16,8 @@ Github：[https://github.com/sis314/sekigae](https://github.com/sis314/sekigae)
 
 ## インストール方法
 ### Windows
-準備中
+[こちらのページ](https://github.com/sis314/sekigae/releases)からsekigae_windows.zipをダウンロードして 解凍してください。<br>
+フォルダに入っている sekigae.exe からアプリが実行できます。
 ### Linux
 Snap Store を使って配信しています。
 
